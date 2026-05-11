@@ -1,4 +1,4 @@
-# TAIRP
+# TAI-IP TO-DO List Application
 Level 2-Task 1
 Project Update!
 Built a To-Do List Web App using HTML, CSS & JavaScript with localStorage support.
