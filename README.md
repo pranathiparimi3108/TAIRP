@@ -6,4 +6,4 @@ Built a To-Do List Web App using HTML, CSS & JavaScript with localStorage suppor
 ✔ Persistent Data
 ✔ Interactive UI
 Learning by building 
-#WebDevelopment #JavaScript #Projects #Internship #Frontend #LearningByDoing #TechAIntern
+
